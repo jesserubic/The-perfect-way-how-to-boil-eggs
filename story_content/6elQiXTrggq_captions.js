@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.64.27845.0%0D%0A%0D%0A00:00:00.032%20--%3E%2000:00:06.544%0D%0AFifth%20step,%20drain%20the%20water%20in%20the%20pan,%20set%20aside%20the%20eggs%20and%20cool%20them.%20Sixth%20step,%20peel%20the%20eggs.%20%20%0D%0A%0D%0A"}')
