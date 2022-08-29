@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.64.27845.0%0D%0A%0D%0A00:00:00.032%20--%3E%2000:00:04.995%0D%0ANow%20that%20we%20know%20how%20to%20choose%20the%20right%20eggs,%20we%20are%20now%20ready%20to%20prepare%20three%20types%20of%20boiled%20eggs.%0D%0A%0D%0A"}')
